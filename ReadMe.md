@@ -1,4 +1,4 @@
-# PoGoReeshof web app for a website <a>http://pogoreeshof.nl/</a>
+# PoGoReeshof web app for a website called <a href="http://pogoreeshof.nl/" target="_blank">PokemnGO Reeshof</a>
 
 ## Done:
 + Way Points are saved to DB
