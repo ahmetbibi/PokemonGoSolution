@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "jsdelivr",
+      "library": "jquery-validation-globalize@0.1.1",
+      "destination": "wwwroot/jquery-validation-globalize/",
+      "files": [
+        "jquery.validate.globalize.min.js",
+        "jquery.validate.globalize.js"
+      ]
+    }
+  ]
+}
